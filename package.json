@@ -1,0 +1,16 @@
+{
+  "name": "coursereg",
+  "version": "1.0.0",
+  "description": "ananinami",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "play-sound": "^1.1.6",
+    "sound-play": "^1.1.0"
+  }
+}
